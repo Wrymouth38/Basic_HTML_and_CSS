@@ -1,7 +1,7 @@
  p {
          background-color: green;
          color: yellow;
-         font-size: large;
+         font-size: 20px;
          text-align: center;
          text-shadow: 2px 2px 5px gray;
      }
