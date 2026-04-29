@@ -1,0 +1,16 @@
+body {
+    background-color: #184352;
+}
+
+.wrap {
+    top: 0;
+    left: 0;
+    height: auto;
+    width: 100%;
+}
+
+.menu-container {
+    top: 0;
+    left: 0;
+    /*To the Top Edge of the screen*/
+}
