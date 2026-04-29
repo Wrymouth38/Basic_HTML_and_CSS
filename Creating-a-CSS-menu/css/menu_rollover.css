@@ -64,4 +64,13 @@ body {
     visibility: hidden;
 }
 
+.submenu li{
+    background-color: #387593;
+    display: block;
+    color: #B3B3B3;
+}
 
+.submenu li:hover {
+    background-color: #5EAFDF;
+    color: #fff;
+}
